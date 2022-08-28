@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"inheritance.sol": "B"
+			"inheritance.sol": "F"
 		},
 		"evmVersion": "london",
 		"libraries": {},
